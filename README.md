@@ -15,6 +15,7 @@ Then open `http://localhost:3000` in your browser.
 
 - `server.js` - Express server with REST API endpoints (`GET /api/users`, `POST /api/users`)
 - `public/index.html` - HTML page with buttons
+- `public/style.css` - CSS styles for the HTML page
 - `public/script.js` - Client-side JavaScript using `fetch()` API to make HTTP requests
 
 ## How It Works
